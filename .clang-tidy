@@ -1,0 +1,3 @@
+Checks: '-*,bugprone-*,-bugprone-easily-swappable-parameters,clang-analyzer-*,performance-*,misc-include-cleaner'
+HeaderFilterRegex: '.*'
+
